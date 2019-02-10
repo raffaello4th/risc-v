@@ -1,0 +1,4 @@
+#define RV_VERSION_MAJOR @RV_VERSION_MAJOR@
+#define RV_VERSION_MINOR @RV_VERSION_MINOR@
+#cmakedefine RV32I
+#cmakedefine RV32E
